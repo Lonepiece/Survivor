@@ -434,7 +434,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 18
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 180, y: 180}
+  m_ReferenceResolution: {x: 300, y: 300}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0.5
   m_PhysicalUnit: 3
@@ -11348,7 +11348,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 10.138889
+  orthographic size: 5
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -18144,7 +18144,7 @@ SpriteRenderer:
   m_SortingOrder: 5
   m_Sprite: {fileID: -150523396, guid: 0c187a32c5bde4747be8d00770b07403, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1, y: 1.1111112}
@@ -18190,7 +18190,7 @@ MonoBehaviour:
   scanner: {fileID: 0}
   hands: []
   animCon:
-  - {fileID: 9100000, guid: 4c71bd57dd0af0b46bcc5773cd98b368, type: 2}
+  - {fileID: 22100000, guid: 4e9fb51735226d4419f4425245cec4df, type: 2}
   - {fileID: 22100000, guid: 80ea28518eb09624a93fd5ac1fb594be, type: 2}
   - {fileID: 22100000, guid: 9deeedba93dadeb4082d54a56a884a45, type: 2}
   - {fileID: 22100000, guid: 2b242a84537c1f24db914eb631f141c1, type: 2}
